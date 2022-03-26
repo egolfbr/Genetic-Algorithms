@@ -179,4 +179,7 @@ def main():
     print("Value: ", bestFit1)
     print("Gene: ", bestGeneCur)
     print("index: ", bestIdxCur) 
-main()
+
+
+if __name__ == "main":
+    main()
