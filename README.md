@@ -1,5 +1,4 @@
 # Genetic-Algorithms
 
-Here I have the Java and python implementations of the 0-1 Knapsack problem. C++ is coming with next update.
-
-A better title would be optimization algorithms since I am also including implementations of particle swarm optimization.
+This is a repo of optimization/genetic algorithms for pyhton. Eventually I hope to re-organize so that I can package and distribute
+on PyPi or GitHub. 
